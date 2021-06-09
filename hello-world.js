@@ -9,4 +9,4 @@ const person = {
     age: 27,
 };
 
-person.name = "bob";
+person.name = "Bob";
