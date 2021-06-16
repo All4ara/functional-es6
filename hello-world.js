@@ -1,6 +1,6 @@
 const sayHello = name => console.log(`hello ${name}`)
 
-sayHello("ariel")
+sayHello("Ariel")
 
 
 //Learning eslint to catch any mutation to const variables
